@@ -1,2 +1,3 @@
 # Diamon
-JUST PRACTISE.
+JUST PRACTICE.
+Practice makes progress.
