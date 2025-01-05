@@ -1,2 +1,1 @@
-# Diamon
-JUST PRACTISE.
+
